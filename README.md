@@ -6,12 +6,15 @@ such as Study material etc.
 One to One doubt solve, Easy access and much more. 
 This project design and develop by:
 
-Frontend           Backend             Tools
-HTML, CSS          JAVA                server: Apache
-BOOTSTRAP4         DATABASE: SQL       NetBeans IDE
-JAVASCRIPT         Servlet, Jsp        mysql-connector
-
-
+Frontend :
+          HTML, CSS, BOOTSTRAP4, JAVASCRIPT
+Backend :           
+         JAVA, Servlet, Jsp
+DataBase :
+         MySql
+Tools  :
+        server: Apache, NetBeans IDE, mysql-connector
+        
 Objective :
 Develop a responsive and user-friendly web site. 
 Implement secure user authentication through login. 
