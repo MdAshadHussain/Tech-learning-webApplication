@@ -6,14 +6,10 @@ such as Study material etc.
 One to One doubt solve, Easy access and much more. 
 This project design and develop by:
 
-Frontend :
-          HTML, CSS, BOOTSTRAP4, JAVASCRIPT
-Backend :           
-         JAVA, Servlet, Jsp
-DataBase :
-         MySql
-Tools  :
-        server: Apache, NetBeans IDE, mysql-connector
+Frontend : HTML, CSS, BOOTSTRAP4, JAVASCRIPT
+Backend : JAVA, Servlet, Jsp
+DataBase :MySql
+Tools  :server: Apache, NetBeans IDE, mysql-connector
         
 Objective :
 Develop a responsive and user-friendly web site. 
