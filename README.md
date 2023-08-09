@@ -15,7 +15,8 @@ DataBase :MySql
 Tools  :server: Apache, NetBeans IDE, mysql-connector
         
 Objective :
-Develop a responsive and user-friendly web site. 
-Implement secure user authentication through login. 
-Develop a robust data storage and update system. 
+
+"Create a responsive and user-friendly website." 
+"Implement a secure user authentication system utilizing a login process."
+"Build a strong system for storing and updating data." 
 Implement easy to send query with educator. 
